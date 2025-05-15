@@ -94,7 +94,7 @@ function Search() {
             <option value="operatingSystem">operatingSystem</option>
             <option value="model">model</option>
             <option value="gender">gender</option>
-            <option value="behaviorclass">beahviorSystem</option>
+            <option value="behaviorclass">behaviorSystem</option>
           </Form.Select>
 
           <Form.Control
